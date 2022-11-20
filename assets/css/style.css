@@ -59,12 +59,12 @@ section {
     margin-top: 53px;
     background-color: white;
     border-radius: 10px;
-
+    
 }
 .word-guess {
     width: 58vw;
     height: 403px;
-
+    
 }
 .results {
     width: 33px;
@@ -77,12 +77,12 @@ section {
     box-shadow: rgba(63, 65, 68, 2) 0 1px 2px 0,rgba(63, 65, 68, 0.15) 0 2px 4px 3px;
     margin: auto;
     padding: 20px;
-
 }
- .word-blanks {
-    line-height: 363px;
+.word-blanks {
+   line-height: 363px;
 
  }
+    
  .l-font {
     font-size: 3.5em;
     text-align: center;
